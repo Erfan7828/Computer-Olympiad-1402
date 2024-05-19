@@ -1,0 +1,7 @@
+C:\Users\AlphaSix\source\repos\OlympiadComputer\OlympiadComputer\bin\Debug\OlympiadComputer.exe.config
+C:\Users\AlphaSix\source\repos\OlympiadComputer\OlympiadComputer\bin\Debug\OlympiadComputer.exe
+C:\Users\AlphaSix\source\repos\OlympiadComputer\OlympiadComputer\bin\Debug\OlympiadComputer.pdb
+C:\Users\AlphaSix\source\repos\OlympiadComputer\OlympiadComputer\obj\Debug\OlympiadComputer.csproj.CoreCompileInputs.cache
+C:\Users\AlphaSix\source\repos\OlympiadComputer\OlympiadComputer\obj\Debug\OlympiadComputer.exe
+C:\Users\AlphaSix\source\repos\OlympiadComputer\OlympiadComputer\obj\Debug\OlympiadComputer.pdb
+C:\Users\AlphaSix\source\repos\OlympiadComputer\OlympiadComputer\obj\Debug\OlympiadComputer.csproj.AssemblyReference.cache
